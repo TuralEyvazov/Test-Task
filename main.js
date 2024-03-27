@@ -171,7 +171,7 @@
 
 // button.addEventListener(('click'), handleCLick)
 
-// 11. HOF (high-order function) Callback funksiyalara deyilir
+// 11. HOF (high-order function) Callback funksiya veya funksiya icinde funksiya return etmekdir
 
 // const result = () => {
 //   let counter = 0;
